@@ -1,3 +1,4 @@
+# Weapon Display
 # Computer Graphic and Visualization Portfolio
 
 This project creates a 3D scene depicting textured weapon models using C++ and OpenGL. Libraries include GLEW, GLFW, GLM, and stb_image.
