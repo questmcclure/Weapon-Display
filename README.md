@@ -1,6 +1,15 @@
 # Computer Graphic and Visualization Portfolio
 
-This project creates a 3D scene using C++ and OpenGL. Libraries include GLEW, GLFW, GLM, and stb_image. 
+This project creates a 3D scene depicting textured weapon models using C++ and OpenGL. Libraries include GLEW, GLFW, GLM, and stb_image.
+
+::::: CONTROLS :::::
+- WASD :: Move Camera
+- Q/E-Spc/Ctrl :: Up / Down
+- Mouse :: Pitch / Yaw
+- Scroll :: Move Speed
+- 1 / 2 :: Increase / Decrease Camera Speed
+- P :: Persp/Ortho Toggle
+- L :: Lightswitch Toggle
 
 - How do I approach designing software?
 - After this project, the way I approach designing software has changed for the better. This was the first project I have done that enveloped the entire course, so the decisions I made, in the beginning, impacted how I worked through each step. Because of this, I dedicated some time to ensuring the design is modular and that each function had a sole purpose. If something broke, I did not want to have to sift through lines of code so this approach made sure that what I was working on could be slotted into the main program and work, if it didn't, it was that module’s fault.
@@ -12,6 +21,9 @@ This project creates a 3D scene using C++ and OpenGL. Libraries include GLEW, GL
 # Screenshots
 
 ![fullview](https://user-images.githubusercontent.com/49607645/178078580-c29b5b40-f635-4362-97e6-6609f110be67.png)
+
+Lights off
+![lightsoff](https://user-images.githubusercontent.com/49607645/178080084-405cf633-8a99-4379-ab7d-9a0776d77f2d.png)
 
 Hammer
 ![hammer](https://user-images.githubusercontent.com/49607645/178078594-49b442d8-f6d8-4ae3-8b62-7ef2cecf22c8.png)
