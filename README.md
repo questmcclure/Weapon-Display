@@ -1,4 +1,7 @@
-# CS-330-Comp-Graphic-and-Visualization-Portfolio
+# Computer Graphic and Visualization Portfolio
+
+This project creates a 3D scene using C++ and OpenGL. Libraries include GLEW, GLFW, GLM, and stb_image. 
+
 - How do I approach designing software?
 - After this project, the way I approach designing software has changed for the better. This was the first project I have done that enveloped the entire course, so the decisions I made, in the beginning, impacted how I worked through each step. Because of this, I dedicated some time to ensuring the design is modular and that each function had a sole purpose. If something broke, I did not want to have to sift through lines of code so this approach made sure that what I was working on could be slotted into the main program and work, if it didn't, it was that module’s fault.
 - How do I approach developing programs?
